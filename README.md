@@ -282,9 +282,13 @@ This project is licensed under the ISC License.
 - [ ] Mobile responsive optimization
 - [ ] PWA support
 
+### Deployment Links
+Backend Health Check : https://doctime-backend-ibpz.onrender.com/api/health <br>
+Frontend : https://doctime-booking.vercel.app/
+
 ## 📞 Support
 
-For support, create an issue in the repository.
+For support, email sreemonkavungal@gmail.com or create an issue in the repository.
 
 ## 👨‍💻 SREEMON KS
 
